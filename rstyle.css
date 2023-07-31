@@ -1,0 +1,119 @@
+#page-header {
+      background-color: #96afdd;
+      padding-top: 30px;
+      padding-bottom: 30px;
+    }
+
+
+    #blog-title {
+      text-align: center;
+      font-size: 42px;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+    }
+
+    .blog-content-section {
+      text-align: center;
+      margin-bottom: 100px;
+    }
+
+    .blog-header-1 {
+      font-size: 27px;
+      margin: 25px 0 25px 0;
+      padding: 25px 0 25px 0;
+      background: url('./marissa-grootes-vdaJJbls3xE-unsplash.jpg') no-repeat center center/cover;
+      width: 50%;
+      display: inline-block;
+      text-align: center;
+      color: #a0a8fe;
+    }
+
+    .dress-for-success {
+      width :500px;
+      height: auto;
+    }
+
+    .linkdin {
+      width :500px;
+      height:auto;
+    }
+
+    .linkdin1 {
+      width :500px;
+      height:auto;
+    }
+
+    .interview {
+      width:500px;
+      height:auto;
+    }
+
+    .interview2 {
+      width:500px;
+      height:auto;
+    }
+
+    .blog-header-2 {
+      font-size: 27px;
+      margin: 25px 0 25px 0;
+      padding: 25px 0 25px 0;
+      background: url('./jonathan-francisca-HY-Nr7GQs3k-unsplash.jpg') no-repeat center center/cover;
+      width: 50%;
+      display: inline-block;
+      text-align: center;
+      color: #d34d36;
+    }
+
+
+    .blog-header-3 {
+      font-size: 27px;
+      margin: 25px 0 25px 0;
+      padding: 25px 0 25px 0;
+      background: url('./cytonn-photography-n95VMLxqM2I-unsplash.jpg') no-repeat center center/cover;
+      width: 50%;
+      display: inline-block;
+      text-align: center;
+      color: #a0d7fe;
+    }
+
+    .blog-header-1:hover,
+    .blog-header-2:hover,
+    .blog-header-3:hover {
+      background: none;
+      background-color: #a0e3fe;
+      color: #fff;
+      cursor: pointer;
+    }
+
+    .blog-content {
+      font-size: 20px;
+      width: 50%;
+      display: inline-block;
+      line-height: 1.7;
+    }
+
+    .read-more {
+      margin-top: 40px;
+    }
+
+    .read-more-btn {
+      background-color: #000;
+      color: #fff;
+      text-decoration: none;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      padding: 20px 30px;
+    }
+
+    .read-more-btn:hover {
+      background-color: #a0f3fe;
+      color: #000;
+    }
+
+    footer {
+      background-color: #b0a0a0;
+      color: #fff;
+      text-align: center;
+      padding: 15px 0 15px 0;
+      letter-spacing: 1px;
+    }
